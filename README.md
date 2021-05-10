@@ -8,6 +8,6 @@
 yassin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## hi i am yassine ahtoutou 
+## I am Yassine Ahtoutou 
 I’m currently learning html and css and javascript and i want to make my own project
 I’m interested in learning how to make website with users
